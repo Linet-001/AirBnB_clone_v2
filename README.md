@@ -358,13 +358,14 @@ Linet Muchunu
 
 ### 0x02. AirBnB clone - MySQL
 ### Read or watch:
-* <a href = https://docs.python.org/3/library/cmd.html >cmd module</a>
-* <a href = https://docs.python.org/3/library/unittest.html#module-unittest>unittest module</a>
-* <a href = https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/>args/kwargs</a>
-* <a href = https://docs.sqlalchemy.org/en/13/orm/tutorial.html>SQLAlchemy tutorial</a>
-* <a href = https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql>How To Create a New User and Grant Permissions in MySQL</a>
-* <a href = https://docs.python.org/3/library/os.html?highlight=env#os.getenv>Python3 and environment variables</a>
-* <a href = https://docs.sqlalchemy.org/en/13/>SQLAlchemy</a>
-* <a href = https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html>MySQL 8.0 SQL Statement Syntax</a>
-* <a href = https://www.youtube.com/watch?v=jeJwRB33YNg>AirBnB clone - ORM</a>
+* <a href="https://docs.python.org/3/library/cmd.html">cmd module<a/>
+
+* <a href = "https://docs.python.org/3/library/unittest.html#module-unittest">unittest module</a>
+* <a href = "https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/">args/kwargs</a>
+* <a href = "https://docs.sqlalchemy.org/en/13/orm/tutorial.html">SQLAlchemy tutorial</a>
+* <a href = "https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql">How To Create a New User and Grant Permissions in MySQL</a>
+* <a href = "https://docs.python.org/3/library/os.html?highlight=env#os.getenv">Python3 and environment variables</a>
+* <a href = "https://docs.sqlalchemy.org/en/13/">SQLAlchemy</a>
+* <a href = "https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html">MySQL 8.0 SQL Statement Syntax</a>
+* <a href = "https://www.youtube.com/watch?v=jeJwRB33YNg">AirBnB clone - ORM</a>
 
